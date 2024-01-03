@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <Builders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DateGenerated="2022-12-08T12:50:00" xsi:noNamespaceSchemaLocation="NHlist-v7_7.xsd">
+<Corporation>
+<CorporateBuilderNumber>CC-1-1617</CorporateBuilderNumber>
+    <CorporateState>ON</CorporateState>
+<CorporateName>ABC Builder - TEST</CorporateName>
+    <Builder>
+      <BuilderNumber>1617</BuilderNumber>
+<BrandName>ABC Builder - TEST</BrandName>
+      <BrandLogo_Med ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/organization/logo/1617/large_Screen_Shot_2022-11-03_at_3.43.28_PM.jpg</BrandLogo_Med>
+      <BrandLogo_Sm ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/organization/logo/1617/small_Screen_Shot_2022-11-03_at_3.43.28_PM.jpg</BrandLogo_Sm>
+      <ReportingName>ABC Builder - TEST</ReportingName>
+<DefaultLeadsEmail>info@abcbuilder.com</DefaultLeadsEmail>
+      <CopyLeadsEmail>milo+666@newhomelistingservice.com</CopyLeadsEmail>
+<BuilderWebsite>https://buynow.constellationcentral.com/demo1/</BuilderWebsite>
+      <Subdivision Status="ComingSoon" PriceLow="567890" PriceHigh="711883" SqftLow="3023" SqftHigh="7000">
+        <SubdivisionNumber>1108</SubdivisionNumber>
+<SubdivisionName>Oceanview State</SubdivisionName>
+        <UseDefaultLeadsEmail>1</UseDefaultLeadsEmail>
+<SalesOffice>
+<Address OutOfCommunity="0">
+<Street1>100 Queen St W</Street1>
+            <County>Toronto</County>
+<City>Toronto</City>
+            <State>ON</State>
+<ZIP>M5H 2N2</ZIP>
+            <Country>CAN</Country>
+<Geocode>
+<Latitude>43.652891</Latitude>
+              <Longitude>-79.383532</Longitude>
+</Geocode>
+          </Address>
+</SalesOffice>
+        <SubAmenity Type="Playground">1</SubAmenity>
+<SubDescription>Located East of Ottawa, Russell is a beautiful, long established community, just on the outer boundary of the City of Ottawa. With speedy access to the busy city, traveling to Ottawa for work or special interest is easy on the adjacent 417 Highway.&#13;
+&#13;
+Russell has succeeded in keeping a definite small town charm, while being fully functional, with many services and businesses right in the town or in immediately adjacent towns. Russell is home to many schools, shopping, service clubs, sport associations and a rich agricultural heritage.&#13;
+  </SubDescription>
+        <SubImage SequencePosition="1" ReferenceType="URL" IsPreferredSubImage="1">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/builder_community/logo/1108/Oceanview_Community.jpg</SubImage>
+        <SubImage SequencePosition="0" Title="thisisnew1" Caption="thisisnew1" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1004779/1.jpg</SubImage>
+        <SubImage SequencePosition="16" Title="ba9de116-46a9-4967-89fb-6d88279c4a62" Caption="ba9de116-46a9-4967-89fb-6d88279c4a62" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1004824/ba9de116-46a9-4967-89fb-6d88279c4a62.jpg</SubImage>
+        <Plan Type="SingleFamily">
+          <PlanNumber>268341</PlanNumber>
+  <PlanName>Hartford - Test - O</PlanName>
+          <PlanNotAvailable>1</PlanNotAvailable>
+  <PlanTypeName>Single Family</PlanTypeName>
+          <BasePrice>711883</BasePrice>
+  <BaseSqft>7000</BaseSqft>
+          <Stories>5</Stories>
+  <Baths>4</Baths>
+          <HalfBaths>0</HalfBaths>
+  <Bedrooms>5</Bedrooms>
+          <Garage>0</Garage>
+  <Description>Move In Ready Model Home&#13;
+                                   </Description>
+          <PlanImages>
+            <ElevationImage SequencePosition="1" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/posting/logo/268341/Listing_image.jpg</ElevationImage>
+            <FloorPlanImage SequencePosition="0" Title="" Caption="" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1023745/Floor_Plan.jpg</FloorPlanImage>
+            <InteriorImage SequencePosition="3" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1038629/interior13.jpg</InteriorImage>
+            <InteriorImage SequencePosition="4" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1038630/interior3.jpg</InteriorImage>
+          </PlanImages>
+  <Spec Type="SingleFamily">
+  <SpecNumber>268341</SpecNumber>
+            <SpecAddress>
+              <SpecStreet1> 359 Brock Ave</SpecStreet1>
+  <SpecCity>Toronto</SpecCity>
+              <SpecState>ON</SpecState>
+  <SpecZIP>M6H 3N4</SpecZIP>
+              <SpecCountry>CAN</SpecCountry>
+  <SpecGeocode>
+  <SpecLatitude>43.652437</SpecLatitude>
+                <SpecLongitude>-79.436437</SpecLongitude>
+  </SpecGeocode>
+            </SpecAddress>
+  <SpecPrice>711883</SpecPrice>
+            <SpecSqft>7000</SpecSqft>
+  <SpecStories>5</SpecStories>
+            <SpecBaths>4</SpecBaths>
+  <SpecHalfBaths>0</SpecHalfBaths>
+            <SpecBedrooms>5</SpecBedrooms>
+  <SpecGarage>0</SpecGarage>
+            <SpecDescription>Move In Ready Model Home&#13;
+</SpecDescription>
+  <SpecLotSizeSqft>8400.0</SpecLotSizeSqft>
+            <SpecImages>
+              <SpecElevationImage SequencePosition="1" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/posting/logo/268341/Listing_image.jpg</SpecElevationImage>
+              <SpecFloorPlanImage SequencePosition="0" Title="" Caption="" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1023745/Floor_Plan.jpg</SpecFloorPlanImage>
+              <SpecInteriorImage SequencePosition="3" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1038629/interior13.jpg</SpecInteriorImage>
+              <SpecInteriorImage SequencePosition="4" ReferenceType="URL">https://hbrdnhlsprod.blob.core.windows.net/nhlsprod/uploads/image/image/1038630/interior3.jpg</SpecInteriorImage>
+            </SpecImages>
+  <BuyNowURL>https://buynow.constellationcentral.com?param=sBu5mJLkwWqxrJjDnv92rRy7%2Bs7EaIykXME3BzvPyDN6spwIgdTwrr7X0ognCEfqwEeIgZ6mlhwoVk9NCo3BGIDdiQADzjXFU%2Fizjpthkul31n889F6mpELp3BMoCXNW</BuyNowURL>
+          </Spec>
+  <SpecCount>1</SpecCount>
+        </Plan>
+        <PlanCount>1</PlanCount>
+  </Subdivision>
+      <SubsCount>1</SubsCount>
+  </Builder>
+  </Corporation>
+  </Builders>
